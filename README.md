@@ -1,4 +1,7 @@
 # Ejercicios Java
 
-## Ejercicio1: 
+## Ejercicio 1: 
 Condicional que comprueba si un usuario es mayor de edad o no: Pedimos por teclado el dato de la edad con la Clase Scanner de la Librería 'java.util.Scanner' y luego lo asociamos a una variable de tipo integer. Por otro lado creamos una constante con el valor 18. Y después hacemos el condicional para comprobar si la edad introducida por el usuario es mayor o igual a la constante con valor 18 lo cual indicaría que el usuario es mayor de edad o por el contrario si es un numero inferior a la constante 18 el programa indicaria que es menor de edad. 
+
+## Ejercicio 2:
+Con otro Condicional if/else y con la clase Scanner otra vez, preguntamos al usuario para que introduzca por teclado un Número que ha de ser ENTERO o INTEGER, es decir, 'int'. En este ejercicio usamos el operador del Módulo '%' para dividir entre 2 y si el resto o residuo de la división es estrictamente igual a CERO entonces el numero dado es PAR. Por el contrario si no es divisible entre 2 con resto estrictamente igual a CERO, entonces el numero dado es IMPAR. Cualquier otro resultado del residuo o resto de la división diferente de CERO al dividir entre 2, significa que el numero es IMPAR. 
