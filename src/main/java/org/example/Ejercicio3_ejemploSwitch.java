@@ -10,9 +10,9 @@ public class Ejercicio3_ejemploSwitch {
         System.out.println("Introduce un número entero del rango de 1 al 7 y te indicaremos el dia de la semana que corresponde: ");
         // Creamos el objeto Scanner 'sc' para que el usuario introduzca por teclado datos
         Scanner sc = new Scanner(System.in);
-        // Declara la variable numeroUsuario como de tipo integer (entero)
+        // Declara la variable numeroDia como de tipo integer (entero)
         int numeroDia;
-        // Guardo el valor que el usuario introduzca por teclado del objeto Scanner 'sc' y lo alojo en mi variable numeroUsuario de tipo int
+        // Guardo el valor que el usuario introduzca por teclado del objeto Scanner 'sc' y lo alojo en mi variable numeroDia de tipo int
         numeroDia = sc.nextInt();
         switch(numeroDia){
                 case 1:
